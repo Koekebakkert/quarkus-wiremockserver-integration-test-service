@@ -1,0 +1,25 @@
+# Maven
+/target
+
+# Intellij:
+/.idea
+**/*.iml
+
+# NetBeans:
+**/nbactions.*
+**/nb-configuration.xml
+**/nbproject
+/.attach_pid*
+
+# Eclipse:
+/.project
+/.classpath
+/.settings
+
+# Visual code:
+.factorypath
+/.vscode
+
+# Misc
+.checkstyle
+.okhttpcache
